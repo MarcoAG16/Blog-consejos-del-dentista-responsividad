@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgb(170, 116, 45);
+}
+
+
+#titulo{
+    text-align: center;
+}
+
+#imagendientes{
+    margin-top: 100px;
+    margin-bottom: 20pz;
+}
+#imagendoctor{
+    margin-top: 100px;
+    
+}
+
+#texto1{
+    
+    margin-top: 15%;
+    text-align: center justify;
+}
+
+#texto2{
+    
+    margin-top: 15%;
+    text-align: center justify;
+    overflow: hidden;
+    padding: 20px;
+   
+}
+
+footer {
+    background-color: #2265a8;
+    padding: 5px;
+    text-align: center;
+    height: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
